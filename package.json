@@ -1,0 +1,11 @@
+{
+  "name": "moat-patent-platform-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd frontend && npm install --legacy-peer-deps",
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start"
+  }
+}

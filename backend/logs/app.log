@@ -1,0 +1,690 @@
+2026-05-25 14:40:07 | INFO     | app.main:lifespan:22 - Starting Patent Intelligence Platform API
+2026-05-25 14:40:10 | INFO     | app.main:lifespan:22 - Starting Patent Intelligence Platform API
+2026-05-25 14:40:10 | INFO     | app.main:lifespan:28 - Connected to Elasticsearch: 8.16.0
+2026-05-25 14:40:11 | INFO     | app.main:lifespan:34 - Connected to Weaviate vector database
+2026-05-25 14:40:11 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: {code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.}
+2026-05-25 14:40:11 | WARNING  | app.main:lifespan:44 - Neo4j not available — graph features will be limited
+2026-05-25 14:40:13 | INFO     | app.main:lifespan:22 - Starting Patent Intelligence Platform API
+2026-05-25 14:40:13 | INFO     | app.main:lifespan:28 - Connected to Elasticsearch: 8.16.0
+2026-05-25 14:40:14 | INFO     | app.main:lifespan:34 - Connected to Weaviate vector database
+2026-05-25 14:40:14 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: {code: Neo.ClientError.Security.Unauthorized} {message: The client is unauthorized due to authentication failure.}
+2026-05-25 14:40:14 | WARNING  | app.main:lifespan:44 - Neo4j not available — graph features will be limited
+2026-05-25 14:40:15 | INFO     | app.main:lifespan:51 - Shutting down Patent Intelligence Platform API
+2026-06-03 18:15:55 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:34:22 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:52:45 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:54:04 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:54:22 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:54:34 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:54:54 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:55:59 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 11:56:45 | INFO     | app.main:lifespan:31 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:15 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:37 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:37 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:38 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:38 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:38 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:56:39 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:57:08 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:57:21 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:04 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:05 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:05 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:06 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:06 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:06 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:24 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 12:58:34 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:08 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:08 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:09 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:09 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:10 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:10 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:00:43 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:01:03 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:01:20 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:05:45 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:07:48 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:08:13 | INFO     | app.main:lifespan:32 - Starting Patent Intelligence Platform API
+2026-06-04 13:20:49 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:36:45 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:45:17 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:45:41 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:47:19 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:48:20 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:48:29 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:56:43 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 13:57:05 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 15:30:28 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 15:32:59 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 15:33:15 | INFO     | app.main:lifespan:33 - Starting Patent Intelligence Platform API
+2026-06-04 15:33:32 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 16:18:10 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 16:18:39 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 16:18:57 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 17:03:15 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 17:08:58 | INFO     | app.main:lifespan:34 - Starting Patent Intelligence Platform API
+2026-06-04 17:10:28 | INFO     | app.main:lifespan:35 - Starting Patent Intelligence Platform API
+2026-06-04 17:17:07 | INFO     | app.main:lifespan:35 - Starting Patent Intelligence Platform API
+2026-06-04 17:24:46 | INFO     | app.main:lifespan:35 - Starting Patent Intelligence Platform API
+2026-06-04 17:25:58 | INFO     | app.main:lifespan:35 - Starting Patent Intelligence Platform API
+2026-06-04 17:27:41 | INFO     | app.main:lifespan:35 - Starting Patent Intelligence Platform API
+2026-06-04 17:28:49 | INFO     | app.main:lifespan:36 - Starting Patent Intelligence Platform API
+2026-06-04 17:45:06 | INFO     | app.main:lifespan:36 - Starting Patent Intelligence Platform API
+2026-06-16 10:24:59 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-16 15:31:55 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-16 15:32:03 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-16 16:12:09 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-16 16:12:19 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-16 16:20:34 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:56:49 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:56:51 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:57:35 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:57:49 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:57:52 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:59:07 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 12:59:10 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 13:00:26 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 13:00:29 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 13:00:48 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 13:00:50 | INFO     | app.main:lifespan:38 - Starting Patent Intelligence Platform API
+2026-06-17 13:01:47 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:01:49 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:12:46 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:13:14 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:13:34 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:13:52 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:14:10 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:14:34 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:14:40 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:14:47 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:15:02 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:15:09 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:15:24 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:15:29 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:15:37 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:16:52 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:33:12 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:34:09 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:35:02 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:35:47 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:36:29 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:37:26 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:38:27 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:40:00 | INFO     | app.main:lifespan:42 - Starting Patent Intelligence Platform API
+2026-06-17 13:40:42 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 13:42:20 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 13:43:05 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 13:43:33 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 16:05:16 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 16:14:53 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 16:14:53 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-17 16:14:53 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-17 16:14:53 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-17 16:14:53 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-17 16:14:53 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-17 16:14:53 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-17 16:17:26 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-17 16:17:26 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-17 16:17:26 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-17 16:17:26 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-17 16:17:26 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-17 16:17:26 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-17 16:17:26 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-17 16:17:26 | INFO     | app.main:lifespan:98 - Shutting down Patent Intelligence Platform API
+2026-06-17 16:32:44 | ERROR    | app.core.middleware:dispatch:33 - Unhandled exception: Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 157, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/anyio/streams/memory.py", line 132, in receive
+    raise EndOfStream from None
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 185, in __call__
+    with collapse_excgroups():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 187, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 18, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/sessions.py", line 85, in __call__
+    await self.app(scope, receive, send_wrapper)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/api/auth/router.py", line 45, in signup
+    return await auth_service.signup(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/services/auth/service.py", line 64, in signup
+    existing = await self.user_repo.get_by_email(data.email)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/repositories/user_repository.py", line 14, in get_by_email
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/ext/asyncio/session.py", line 461, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2237, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2106, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1189, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3278, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3302, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 621, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 949, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+             ^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "uvloop/loop.pyx", line 2043, in create_connection
+  File "uvloop/loop.pyx", line 2020, in uvloop.loop.Loop.create_connection
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2026-06-17 17:11:53 | ERROR    | app.core.middleware:dispatch:33 - Unhandled exception: Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 157, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/anyio/streams/memory.py", line 132, in receive
+    raise EndOfStream from None
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 185, in __call__
+    with collapse_excgroups():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 187, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 18, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/sessions.py", line 85, in __call__
+    await self.app(scope, receive, send_wrapper)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/api/auth/router.py", line 45, in signup
+    return await auth_service.signup(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/services/auth/service.py", line 64, in signup
+    existing = await self.user_repo.get_by_email(data.email)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/repositories/user_repository.py", line 14, in get_by_email
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/ext/asyncio/session.py", line 461, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2237, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2106, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1189, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3278, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3302, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 621, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 949, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+             ^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "uvloop/loop.pyx", line 2043, in create_connection
+  File "uvloop/loop.pyx", line 2020, in uvloop.loop.Loop.create_connection
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2026-06-17 17:22:50 | ERROR    | app.core.middleware:dispatch:33 - Unhandled exception: Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 157, in call_next
+    message = await recv_stream.receive()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/anyio/streams/memory.py", line 132, in receive
+    raise EndOfStream from None
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 31, in dispatch
+    return await call_next(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 185, in __call__
+    with collapse_excgroups():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 187, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/core/middleware.py", line 18, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 163, in call_next
+    raise app_exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/base.py", line 149, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/sessions.py", line 85, in __call__
+    await self.app(scope, receive, send_wrapper)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/cors.py", line 85, in __call__
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 62, in wrapped_app
+    raise exc
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/_exception_handler.py", line 51, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/starlette/routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/api/auth/router.py", line 45, in signup
+    return await auth_service.signup(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/services/auth/service.py", line 64, in signup
+    existing = await self.user_repo.get_by_email(data.email)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard (2)/dashboard/backend/app/repositories/user_repository.py", line 14, in get_by_email
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/ext/asyncio/session.py", line 461, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2362, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2237, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2106, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 1189, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3278, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 146, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/base.py", line 3302, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 449, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 1263, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 712, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 179, in _do_get
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/impl.py", line 177, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 390, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 674, in __init__
+    self.__connect()
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 900, in __connect
+    with util.safe_reraise():
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/pool/base.py", line 896, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 643, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/engine/default.py", line 621, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/dialects/postgresql/asyncpg.py", line 949, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+             ^^^^^^^^^^^^^^^
+  File "/home/jothika/Downloads/dashboard_patent/dashboard/backend/venv/lib/python3.12/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "uvloop/loop.pyx", line 2043, in create_connection
+  File "uvloop/loop.pyx", line 2020, in uvloop.loop.Loop.create_connection
+ConnectionRefusedError: [Errno 111] Connection refused
+
+2026-06-18 18:07:12 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-18 18:07:12 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-18 18:07:12 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-18 18:07:12 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-18 18:07:12 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-18 18:07:12 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-18 18:07:12 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-18 18:08:22 | INFO     | app.core.middleware:dispatch:20 - GET /health 200 - 0.0173s
+2026-06-19 10:17:27 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-19 10:17:27 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-19 10:17:27 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-19 10:17:27 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-19 10:17:27 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-19 10:17:27 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-19 10:17:27 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-19 10:18:42 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-19 10:18:43 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-19 10:18:43 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-19 10:18:43 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-19 10:18:43 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-19 10:18:43 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-19 10:18:43 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-19 10:20:47 | INFO     | app.core.middleware:dispatch:20 - GET /health 200 - 0.0122s
+2026-06-19 10:21:21 | INFO     | app.core.middleware:dispatch:20 - GET /api/docs 200 - 0.0004s
+2026-06-22 11:34:03 | INFO     | app.main:lifespan:43 - Starting Patent Intelligence Platform API
+2026-06-22 11:34:03 | WARNING  | app.main:lifespan:58 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-22 11:34:03 | WARNING  | app.main:lifespan:71 - Weaviate not available — AI features will use fallback modes
+2026-06-22 11:34:03 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-22 11:34:03 | WARNING  | app.main:lifespan:79 - Neo4j not available — graph features will be limited
+2026-06-22 11:34:03 | INFO     | app.main:lifespan:86 - Connected to Redis: redis://localhost:6379
+2026-06-22 11:34:03 | INFO     | app.main:lifespan:90 - All services initialised — Patent Intelligence Platform ready
+2026-06-22 11:34:18 | INFO     | app.core.middleware:dispatch:20 - HEAD /health 405 - 0.0009s
+2026-06-22 11:34:41 | INFO     | app.core.middleware:dispatch:20 - GET /health 200 - 0.0125s
+2026-06-26 10:45:46 | INFO     | app.main:lifespan:44 - Starting Patent Intelligence Platform API
+2026-06-26 10:45:46 | WARNING  | app.main:lifespan:59 - Elasticsearch not available: Connection error caused by: ConnectionError(Connection error caused by: ClientConnectorError(Cannot connect to host localhost:9200 ssl:default [Connect call failed ('127.0.0.1', 9200)]))
+2026-06-26 10:45:46 | WARNING  | app.main:lifespan:72 - Weaviate not available — AI features will use fallback modes
+2026-06-26 10:45:46 | WARNING  | app.core.graph:get_graph_driver:19 - Neo4j connection failed: Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
+Failed to establish connection to ResolvedIPv4Address(('127.0.0.1', 7687)) (reason [Errno 111] Connect call failed ('127.0.0.1', 7687))
+2026-06-26 10:45:46 | WARNING  | app.main:lifespan:80 - Neo4j not available — graph features will be limited
+2026-06-26 10:45:46 | INFO     | app.main:lifespan:87 - Connected to Redis: redis://localhost:6379
+2026-06-26 10:45:46 | INFO     | app.main:lifespan:91 - All services initialised — Patent Intelligence Platform ready

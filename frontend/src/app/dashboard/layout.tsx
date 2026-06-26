@@ -31,5 +31,5 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
     );
   }
 
-  return <DashboardLayoutComponent user={user}>{children}</DashboardLayoutComponent>;
+  return <DashboardLayoutComponent user={user || undefined}>{children}</DashboardLayoutComponent>;
 }

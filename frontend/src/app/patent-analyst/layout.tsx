@@ -37,5 +37,5 @@ export default function PatentAnalystLayout({ children }: { children: React.Reac
     );
   }
 
-  return <DashboardLayoutComponent user={user}>{children}</DashboardLayoutComponent>;
+  return <DashboardLayoutComponent user={user || undefined}>{children}</DashboardLayoutComponent>;
 }

@@ -44,6 +44,7 @@ export interface DBActivityLog {
     title: string;
     type: string;
     link?: string;
+    [key: string]: any;
   };
   created_at: string;
 }

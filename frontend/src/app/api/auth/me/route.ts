@@ -33,7 +33,7 @@ export async function GET(request: NextRequest) {
       id: user.id,
       email: user.email,
       name: user.name,
-      role: user.roles ? user.roles.role_name : "Viewer",
+      role: (Array.isArray(user.roles) ? user.roles[0]?.role_name : (user.roles as any)?.role_name) || "Viewer",
       department: user.department,
       designation: user.designation,
       createdAt: user.created_at,

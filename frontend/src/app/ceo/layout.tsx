@@ -37,5 +37,5 @@ export default function CeoLayout({ children }: { children: React.ReactNode }) {
     );
   }
 
-  return <DashboardLayoutComponent user={user}>{children}</DashboardLayoutComponent>;
+  return <DashboardLayoutComponent user={user || undefined}>{children}</DashboardLayoutComponent>;
 }

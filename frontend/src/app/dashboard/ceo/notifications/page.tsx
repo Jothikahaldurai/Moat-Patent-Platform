@@ -74,7 +74,7 @@ export default function NotificationCenterPage() {
         const metadata = d.metadata || {};
         return {
           id: d.id,
-          module: metadata.module || (d.entity_id?.startsWith("PAT") ? "Patent" : d.entity_id?.startsWith("TM") ? "Trademark" : "System"),
+          module: (metadata.module || (d.entity_id?.startsWith("PAT") ? "Patent" : d.entity_id?.startsWith("TM") ? "Trademark" : "System")) as "Patent" | "Trademark" | "System",
           document_id: d.entity_id || "Unknown",
           title: metadata.title || "Workflow Update",
           client: metadata.client || "Internal",

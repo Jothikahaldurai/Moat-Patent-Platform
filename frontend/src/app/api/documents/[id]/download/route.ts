@@ -13,8 +13,9 @@ async function getAuthUser(req?: NextRequest) {
   return { id: payload.sub as string, role: payload.role as string };
 }
 
-export async function POST(req: NextRequest, { params }: { params: { id: string } }) {
+export async function POST(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   try {
+    const { id } = await params;
     const user = await getAuthUser(req);
     if (!user) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
 
@@ -28,7 +29,7 @@ export async function POST(req: NextRequest, { params }: { params: { id: string 
     const { data: doc, error: docError } = await supabase
       .from("patent_documents")
       .select("id")
-      .eq("id", params.id)
+      .eq("id", id)
       .single();
 
     if (docError || !doc) return NextResponse.json({ error: "Document not found" }, { status: 404 });
@@ -36,7 +37,7 @@ export async function POST(req: NextRequest, { params }: { params: { id: string 
     // Ensure only Analyst or Designer can download based on role logic
     // For simplicity, we just log the download here
     const { error: logError } = await supabase.from("design_download_logs").insert({
-      document_id: params.id,
+      document_id: id,
       version_id: versionId,
       user_id: user.id,
     });

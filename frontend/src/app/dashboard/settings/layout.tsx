@@ -18,7 +18,7 @@ export default function SettingsLayout({ children }: { children: React.ReactNode
     </div>
   );
 
-  const isAdmin = user.role === "Admin" || user.role === "admin" || user.role === "Super Admin";
+  const isAdmin = (user.role as string) === "Admin" || (user.role as string) === "admin" || (user.role as string) === "Super Admin";
 
   const navItems = [
     { icon: User, label: "Profile", href: "/dashboard/settings" },

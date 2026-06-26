@@ -42,7 +42,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ detail: "User not found." }, { status: 401 });
     }
 
-    const roleName = user.roles ? user.roles.role_name : "Viewer";
+    const roleName = (Array.isArray(user.roles) ? user.roles[0]?.role_name : (user.roles as any)?.role_name) || "Viewer";
 
     // Issue new access token
     const newAccessToken = await signToken({

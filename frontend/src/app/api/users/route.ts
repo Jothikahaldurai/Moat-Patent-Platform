@@ -57,7 +57,7 @@ export async function GET(request: NextRequest) {
       department: u.department || "N/A",
       designation: u.designation || "N/A",
       status: u.is_active ? "Active" : "Inactive",
-      role: u.roles ? u.roles.role_name : "Unknown",
+      role: (Array.isArray(u.roles) ? u.roles[0]?.role_name : (u.roles as any)?.role_name) || "Unknown",
       lastLogin: u.last_login
     }));
 

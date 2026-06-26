@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
     }
 
     // 3. Issue JWT Tokens
-    const roleName = user.roles ? user.roles.role_name : "Viewer";
+    const roleName = (Array.isArray(user.roles) ? user.roles[0]?.role_name : (user.roles as any)?.role_name) || "Viewer";
     
     const payload = {
       sub: user.id,

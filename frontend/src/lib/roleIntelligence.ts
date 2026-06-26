@@ -247,7 +247,7 @@ export function canAccessModule(role: AppRole | string | undefined | null, href:
 // ── Route-to-required-role map (for middleware) ──────────────────────────────
 
 /** Returns the AppRole required to access a given dashboard prefix, or null if public. */
-export const ROLE_ROUTE_MAP: Record<string, AppRole[]> = {
+export const ROLE_ROUTE_MAP: Record<string, string[]> = {
   "/dashboard/ceo":      ["CEO"],
   "/ceo":                ["CEO"],
   "/dashboard/cto":      ["CTO", "Admin", "Super Admin"],
@@ -263,7 +263,7 @@ export const ROLE_ROUTE_MAP: Record<string, AppRole[]> = {
 };
 
 /** Returns which AppRoles are required for a given pathname. Empty = any auth'd user. */
-export function getRequiredRoles(pathname: string): AppRole[] {
+export function getRequiredRoles(pathname: string): string[] {
   for (const [prefix, roles] of Object.entries(ROLE_ROUTE_MAP)) {
     if (pathname === prefix || pathname.startsWith(`${prefix}/`)) {
       return roles;
